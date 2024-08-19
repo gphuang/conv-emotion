@@ -4,5 +4,5 @@ logs
 */*.pkl
 *.sh
 *.out
-__MACOSX*
+__MACOSX
 
