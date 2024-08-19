@@ -1,0 +1,8 @@
+.code-workspace
+results
+logs
+*/*.pkl
+*.sh
+*.out
+__MACOSX*
+
